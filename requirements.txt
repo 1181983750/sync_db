@@ -1,0 +1,10 @@
+Django~=3.2.9
+asgiref~=3.4.1
+pymssql~=2.2.5
+DBUtils~=1.3
+Twisted~=22.4.0
+requests~=2.27.1
+django-mssql-backend~=2.8.1
+sshtunnel~=0.4.0
+paramiko~=3.4.0
+pyodbc~=4.0.32
